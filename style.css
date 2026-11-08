@@ -133,3 +133,7 @@ button[data-action="toggleSearch"]::first-letter{font-size:19px}
 .set-entry.set-entry-reps-only>.field,.set-entry.set-entry-reps-only>div{min-width:0}
 .set-entry.set-entry-reps-only .field span{white-space:nowrap}
 .muscle-help{margin-top:12px}.muscle-help details{border-top:1px solid #36383d;padding:10px 0}.muscle-help summary{cursor:pointer;font-weight:600}.muscle-help table{width:100%;font-size:12px;margin:8px 0;border-collapse:collapse}.muscle-help td,.muscle-help th{padding:6px;border-bottom:1px solid #35363a;text-align:left}.muscle-formula{font-size:13px;line-height:1.8;margin:8px 0}.muscle-chart-pair{display:grid;grid-template-columns:1fr 1fr;gap:10px}.muscle-example-chart{width:100%;height:auto}.muscle-help h4{margin:12px 0 5px}.muscle-chart-pair small{font-size:11px;color:#aaa}.save-targets{display:flex;flex-direction:column;align-items:stretch}
+
+/* WorkoutX v2.3: visualizzazione unificata degli esercizi collegati */
+.linked-member-separator{height:1px;background:rgba(247,108,50,.25);margin:14px 0}
+.jump-between-rest{display:block;text-align:center;font-size:11px;color:var(--muted,#aaa);margin:5px 0}
