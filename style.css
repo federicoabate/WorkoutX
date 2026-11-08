@@ -137,3 +137,9 @@ button[data-action="toggleSearch"]::first-letter{font-size:19px}
 /* WorkoutX v2.3: visualizzazione unificata degli esercizi collegati */
 .linked-member-separator{height:1px;background:rgba(247,108,50,.25);margin:14px 0}
 .jump-between-rest{display:block;text-align:center;font-size:11px;color:var(--muted,#aaa);margin:5px 0}
+
+/* v2.4: visual separation of linked rounds and Jump rest labels */
+.linked-set-round{border:1px solid rgba(247,108,50,.24);border-radius:12px;padding:7px 9px;margin:10px 0}
+.linked-set-round .compact-set{margin:5px 0}
+.jump-between-rest{color:#f4f4f5;font-weight:500}
+.jump-badge-rest{color:#F76C32;font-size:11px;font-weight:500}
